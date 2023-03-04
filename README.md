@@ -16,6 +16,13 @@ Words can be given as input string and morse code for the input is represented a
 
 > "... ___ ..." => "sos"
 
+## Instructions
+* **Run** the program.
+* The program prints the available converters.
+* Choose the **serial number** of the converter.
+* Program asks for the **input string** to be converted to another format.
+* Once the conversion is completed, the program is **terminated**.
+
 ## License
 This repository is licensed under **GNU General Public License** family.
 
